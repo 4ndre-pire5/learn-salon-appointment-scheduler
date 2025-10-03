@@ -13,3 +13,8 @@ chmod + salon.sh
 ./salon.sh
 git remote -v
 git remote -v
+git branch
+git pull origin master
+git pull origin master --allow-unrelated-hisotries
+git pull origin master --allow-unrelated-histories
+git add .
