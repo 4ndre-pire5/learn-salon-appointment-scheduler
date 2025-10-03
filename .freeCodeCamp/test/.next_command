@@ -23,3 +23,6 @@ git push origin master
 git pull origin master --allow-unrelated-histories
 __vsc_prompt_cmd_original
 git add .
+git commit -m "Merge remoto e local"
+git push origin master
+git push origin master --force
