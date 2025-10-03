@@ -11,3 +11,5 @@ chmod + salon.sh
 ./salon.sh
 ./salon.sh
 ./salon.sh
+git remote -v
+git remote -v
